@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Urva's First CS193 Homework
+
+- I love the instructors; they are so interactive and fun
+- I enjoy the PowerPoints; they are colorful and motivate me to study
+- The syllabus is well formed to help absolute beginners (aka me)
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
